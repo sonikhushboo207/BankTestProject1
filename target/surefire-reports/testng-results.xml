@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T19:30:13 IST" name="Suite" finished-at="2024-07-16T19:31:56 IST" duration-ms="102568">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T19:30:13 IST" name="Test" finished-at="2024-07-16T19:31:56 IST" duration-ms="102568">
+      <class name="logintests.AfterLogin">
+        <test-method signature="loginviaDataProvider(java.lang.String,java.lang.String)[pri:0, instance:logintests.AfterLogin@2c1b194a]" started-at="2024-07-16T19:30:13 IST" name="loginviaDataProvider" data-provider="testData" finished-at="2024-07-16T19:30:36 IST" duration-ms="22773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr552483]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mAvanUq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginviaDataProvider -->
+        <test-method signature="loginviaDataProvider(java.lang.String,java.lang.String)[pri:0, instance:logintests.AfterLogin@2c1b194a]" started-at="2024-07-16T19:30:36 IST" name="loginviaDataProvider" data-provider="testData" finished-at="2024-07-16T19:30:56 IST" duration-ms="20025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr552483]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginviaDataProvider -->
+        <test-method signature="loginviaDataProvider(java.lang.String,java.lang.String)[pri:0, instance:logintests.AfterLogin@2c1b194a]" started-at="2024-07-16T19:30:56 IST" name="loginviaDataProvider" data-provider="testData" finished-at="2024-07-16T19:31:25 IST" duration-ms="29070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mAvanUq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginviaDataProvider -->
+        <test-method signature="loginviaDataProvider(java.lang.String,java.lang.String)[pri:0, instance:logintests.AfterLogin@2c1b194a]" started-at="2024-07-16T19:31:25 IST" name="loginviaDataProvider" data-provider="testData" finished-at="2024-07-16T19:31:56 IST" duration-ms="30608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginviaDataProvider -->
+      </class> <!-- logintests.AfterLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

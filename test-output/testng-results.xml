@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-21T16:30:24 IST" name="Default suite" finished-at="2024-07-21T16:32:13 IST" duration-ms="109331">
+    <groups>
+    </groups>
+    <test started-at="2024-07-21T16:30:24 IST" name="Default test" finished-at="2024-07-21T16:32:13 IST" duration-ms="109331">
+      <class name="logintests.day6test">
+        <test-method signature="validateLoginAttempt(java.lang.String,java.lang.String)[pri:0, instance:logintests.day6test@1e6a3214]" started-at="2024-07-21T16:30:24 IST" name="validateLoginAttempt" data-provider="getData" finished-at="2024-07-21T16:31:28 IST" duration-ms="64272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr580704]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qujarEp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginAttempt -->
+        <test-method signature="validateLoginAttempt(java.lang.String,java.lang.String)[pri:0, instance:logintests.day6test@1e6a3214]" started-at="2024-07-21T16:31:28 IST" name="validateLoginAttempt" data-provider="getData" finished-at="2024-07-21T16:31:45 IST" duration-ms="17102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr580704]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginAttempt -->
+        <test-method signature="validateLoginAttempt(java.lang.String,java.lang.String)[pri:0, instance:logintests.day6test@1e6a3214]" started-at="2024-07-21T16:31:45 IST" name="validateLoginAttempt" data-provider="getData" finished-at="2024-07-21T16:31:59 IST" duration-ms="13600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qujarEp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginAttempt -->
+        <test-method signature="validateLoginAttempt(java.lang.String,java.lang.String)[pri:0, instance:logintests.day6test@1e6a3214]" started-at="2024-07-21T16:31:59 IST" name="validateLoginAttempt" data-provider="getData" finished-at="2024-07-21T16:32:13 IST" duration-ms="14250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginAttempt -->
+      </class> <!-- logintests.day6test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
